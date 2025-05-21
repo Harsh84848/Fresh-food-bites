@@ -642,6 +642,7 @@ section {
 
     .home{
         max-width: device-width;
+        background: url(Images/ipad\ \(760\ x\ 843\ px\).png) no-repeat;
         background-position: left;
         justify-content: center;
         text-align: center;
@@ -663,5 +664,7 @@ section {
     html {
         font-size: 50%;
     }
-
+    .home{
+        background: url(Images/Phone\ background.jpeg) no-repeat;
+    }
 }
